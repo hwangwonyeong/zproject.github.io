@@ -1,0 +1,23 @@
+/* 하단 푸터 */
+footer {
+			background-color: black;
+			color: white;
+			padding: 20px;
+      height: 48px;
+      bottom: 0;
+      position: relative;
+      top: 200px;
+		}
+		.footer_nav .sns li{
+			display: inline-block;
+		}
+footer p {
+  margin-top: 10px;
+  float: left;
+}
+.sns {
+  float: right;
+}
+.footertop {
+  margin-top: 450px;
+}
